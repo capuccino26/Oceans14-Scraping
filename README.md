@@ -67,7 +67,7 @@ Scraping and managing data for brazilian (B3) stocks from Oceans14
 Email:  teste@testemail.com
 Senha:  123
 Setor (separado por "/"):  Consumo Cíclico/Diversos/Serviços Educacionais
-Tickers (separated by ",":  ANIM3, COGN3, SEER3, YDUQ3
+Tickers (separado por ",":  ANIM3, COGN3, SEER3, YDUQ3
 
 ANIM3
 SUCCESS
