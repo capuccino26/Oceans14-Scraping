@@ -29,9 +29,6 @@ Raspagem e manipulação de dados para ações brasileiras utilizando o site Oce
 * Para os dados extraídos com sucesso o programa irá gerar uma nova pasta em Path chamada "STOCKBR/SETOR" para cada ticker inserido, sendo o setor inserido pelo usuário.
 * A pasta contém a tabela com todos os dados brutos e uma figura com os principais dados obtidos.
 
-## Observação
-* Alguns tickers de bancos possuem uma estruturação diferente do padrão do site, nestes casos o programa alternativo "OCEANS_14_SCRAPING_bancos" deve ser utilizado.
-
 # EN-US
 ## About
 Scraping and managing data for brazilian (B3) stocks from Oceans14
@@ -53,9 +50,6 @@ Scraping and managing data for brazilian (B3) stocks from Oceans14
   * INVALID TICKER: When the ticker was not found in Oceans14 database.
 * For the successfully scraped data the program will create a new folder called STOCKBR/SETOR under Path for each inserted ticker, being the sector inserted by the user.
 * The folder contains a table with the raw data obtained and a figure with plots of important data.
-
-## Observation
-* Some bank tickers have a different pattern in the website, thus, the alternate program "OCEANS_14_SCRAPING_bancos" must be utilized.
 
 # Exemplo
   * Usuário insere o email: teste@testemail.com
