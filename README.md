@@ -30,7 +30,7 @@ Raspagem e manipulação de dados para ações brasileiras utilizando o site Oce
 * A pasta contém a tabela com todos os dados brutos e uma figura com os principais dados obtidos.
 
 ### Versão do excel
-* É possível obter os tickers diretamente de uma tabela excel organizada como no exemplo "B3.xlsx" anexado, onde o usuário insere os tickers desejados em uma coluna chamada "PAPEL".
+* É possível obter os tickers diretamente de uma tabela excel organizada como no exemplo "B3.xlsx" anexado, onde o usuário insere os tickers desejados em uma coluna chamada "PAPEL" e o setor na quarta coluna.
 
 # EN-US
 ## About
@@ -55,7 +55,7 @@ Scraping and managing data for brazilian (B3) stocks from Oceans14
 * The folder contains a table with the raw data obtained and a figure with plots of important data.
 
 ### Version from excel
-* It is possible to obtain the tickers directly from an excel table, as the example "B3.xlsx" attached, where theuser inserts the tickers in a column called "PAPEL".
+* It is possible to obtain the tickers directly from an excel table, as the example "B3.xlsx" attached, where theuser inserts the tickers in a column called "PAPEL" and the sector in the fourth column.
 
 # Exemplo
   * Usuário insere o email: teste@testemail.com
