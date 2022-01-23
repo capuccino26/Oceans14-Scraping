@@ -29,6 +29,9 @@ Raspagem e manipulação de dados para ações brasileiras utilizando o site Oce
 * Para os dados extraídos com sucesso o programa irá gerar uma nova pasta em Path chamada "STOCKBR/SETOR" para cada ticker inserido, sendo o setor inserido pelo usuário.
 * A pasta contém a tabela com todos os dados brutos e uma figura com os principais dados obtidos.
 
+### Versão do excel
+* É possível obter os tickers diretamente de uma tabela excel organizada como no exemplo "B3.xlsx" anexado, onde o usuário insere os tickers desejados em uma coluna chamada "PAPEL".
+
 # EN-US
 ## About
 Scraping and managing data for brazilian (B3) stocks from Oceans14
@@ -50,6 +53,9 @@ Scraping and managing data for brazilian (B3) stocks from Oceans14
   * INVALID TICKER: When the ticker was not found in Oceans14 database.
 * For the successfully scraped data the program will create a new folder called STOCKBR/SETOR under Path for each inserted ticker, being the sector inserted by the user.
 * The folder contains a table with the raw data obtained and a figure with plots of important data.
+
+### Version from excel
+* It is possible to obtain the tickers directly from an excel table, as the example "B3.xlsx" attached, where theuser inserts the tickers in a column called "PAPEL".
 
 # Exemplo
   * Usuário insere o email: teste@testemail.com
